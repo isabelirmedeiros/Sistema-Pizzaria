@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "bebida": "Coca Cola 2L",
+    "valor": 17.8
+  },
+  {
+    "id": 2,
+    "bebida": "Coca Cola Zero 2L",
+    "valor": 19
+  },
+  {
+    "id": 3,
+    "bebida": "Agua Mineral",
+    "valor": 4
+  },
+  {
+    "id": 4,
+    "bebida": "Suco Natural (Laranja, Maracuja, Uva)",
+    "valor": 10
+  },
+  {
+    "id": 5,
+    "bebida": "Cerveja Lata",
+    "valor": 8
+  }
+]

@@ -1,0 +1,14 @@
+
+=== COMPROVANTE DE PEDIDO ===
+
+Cliente (CPF): 123569814574
+
+Produtos:
+ - Camarao com Catupiry x1 = R$ 55.00
+ - Suco Natural (Laranja, Maracuja, Uva) x1 = R$ 10.00
+
+Total: R$ 55.25
+
+Pagamento: Cartão
+Entrega: Delivery
+Data: 2025-09-20T01:06:44.849Z

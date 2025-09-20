@@ -1,0 +1,70 @@
+[
+  {
+    "clienteCPF": "55622949823",
+    "produtos": [
+      {
+        "nome": "Calabresa",
+        "preco": 55.5,
+        "quantidade": 1
+      },
+      {
+        "nome": "Coca Cola Zero 2L",
+        "preco": 19,
+        "quantidade": 1
+      },
+      {
+        "nome": "Pudim Leite Condensado",
+        "preco": 8,
+        "quantidade": 1
+      }
+    ],
+    "total": 82.5,
+    "pagamento": "Dinheiro",
+    "entrega": "Retirada",
+    "data": "2025-09-18T03:36:52.376Z",
+    "cupom": null,
+    "desconto": 0
+  },
+  {
+    "clienteCPF": "55622949823",
+    "produtos": [
+      {
+        "nome": "Calabresa",
+        "preco": 55.5,
+        "quantidade": 1
+      },
+      {
+        "nome": "Coca Cola Zero 2L",
+        "preco": 19,
+        "quantidade": 1
+      }
+    ],
+    "total": 63.324999999999996,
+    "pagamento": "Dinheiro",
+    "entrega": "Retirada",
+    "data": "2025-09-18T03:37:55.018Z",
+    "cupom": "EDUTOP10",
+    "desconto": 11.174999999999999
+  },
+  {
+    "clienteCPF": "123569814574",
+    "produtos": [
+      {
+        "nome": "Camarao com Catupiry",
+        "preco": 55,
+        "quantidade": 1
+      },
+      {
+        "nome": "Suco Natural (Laranja, Maracuja, Uva)",
+        "preco": 10,
+        "quantidade": 1
+      }
+    ],
+    "total": 55.25,
+    "pagamento": "Cartão",
+    "entrega": "Delivery",
+    "data": "2025-09-20T01:06:44.849Z",
+    "cupom": "edutop10",
+    "desconto": 9.75
+  }
+]

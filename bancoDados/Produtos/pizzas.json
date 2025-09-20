@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "pizza": "Calabresa",
+    "valor": 55.5
+  },
+  {
+    "id": 2,
+    "pizza": "Frango com Catupiry",
+    "valor": 60
+  },
+  {
+    "id": 3,
+    "pizza": "Pepperoni",
+    "valor": 44
+  },
+  {
+    "id": 4,
+    "pizza": "Camarao com Catupiry",
+    "valor": 55
+  },
+  {
+    "id": 5,
+    "pizza": "Quatro Queijos",
+    "valor": 47
+  }
+]

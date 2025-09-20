@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "sobremesa": "Pudim Leite Condensado",
+    "valor": 12
+  },
+  {
+    "id": 2,
+    "sobremesa": "Petit Gateau",
+    "valor": 15
+  },
+  {
+    "id": 3,
+    "sobremesa": "Mousse de Maracuja",
+    "valor": 10
+  },
+  {
+    "id": 4,
+    "sobremesa": "Bolo de chocolate",
+    "valor": 12
+  }
+]
