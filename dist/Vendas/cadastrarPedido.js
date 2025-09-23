@@ -50,6 +50,8 @@ function cadastrarPedidoInteractive() {
     const cpf = readlineSync.question("Digite o CPF do cliente: ");
     let cliente = (0, procurarCliente_1.procurarCliente)(cpf);
     if (!cliente) {
+        //caso o cpf não esteja cadastrado irá chamar a função
+        //adicionarCliente() para cadastrá-lo
         console.log("Cliente nao encontrado!");
         console.log("Cadastrando...");
         (0, adicionarCliente_1.adicionarCliente)();

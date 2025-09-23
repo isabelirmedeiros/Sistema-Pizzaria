@@ -11,6 +11,6 @@
     "resolveJsonModule": true,       // Permite importar arquivos JSON direto no TS
     "types": ["node"]                // Diz ao TS para usar os tipos do Node
   },
-  "include": ["src/**/*", "Produtos", "Clientes", "telasMenu", "Vendas"],           // Quais arquivos TypeScript serão compilados
+  "include": ["src"],           // Quais arquivos TypeScript serão compilados
   "exclude": ["node_modules"]        // Não compila dependências externas
 }

@@ -1,4 +1,11 @@
 "use strict";
+/*TRABALHO SISTEMA PIZZARIA
+CCO - Progrmação TypeScript
+Ana Carolina Santos - RA: 2506285
+Ekaterini Kotsis Milani - RA: 2510337
+Isabeli Rosa de Medeiros - RA: 2503388
+Raul do Santos Machado - RA: 2521975
+*/
 var __importDefault = (this && this.__importDefault) || function (mod) {
     return (mod && mod.__esModule) ? mod : { "default": mod };
 };

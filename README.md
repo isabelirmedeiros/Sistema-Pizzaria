@@ -67,7 +67,7 @@ Sistema-Pizzaria/
    npm install
    ```
 
-3. Compile o TypeScript para JavaScript (gera os arquivos em `dist/`):
+3. Compile o TypeScript para JavaScript:
    ```bash
    npm run build
    ```
@@ -173,13 +173,13 @@ Projeto desenvolvido por **Ana Carolina Santos - RA: 2506285**, **Ekaterini Kots
 ## Mapeameno dos arquivos 
 
 <div align="center">
-<img src="https://github.com/isabelirmedeiros/Sistema-Pizzaria/issues/1#issue-3443467619" width="750px" />
+<img src="https://private-user-images.githubusercontent.com/227486176/492608030-b54c2200-8b98-4292-adb7-ce3b0c53de26.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTg2MDMxOTEsIm5iZiI6MTc1ODYwMjg5MSwicGF0aCI6Ii8yMjc0ODYxNzYvNDkyNjA4MDMwLWI1NGMyMjAwLThiOTgtNDI5Mi1hZGI3LWNlM2IwYzUzZGUyNi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwOTIzJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDkyM1QwNDQ4MTFaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0xNjAzMTEyZDc3MWM1ODkxNjU2YWNiNjdhMjI1ZTQ2NTUwNTM1NThiNzFkNWE3OGM4NjJlYzBlZmIzZDU2MDFiJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.xijWgIMm03Xt5HeEX37Ef-73QpnQWpiK4ulaYRpDPKQ" width="700px" />
 </div>
 
 <div align="center">
-<img src="https://github.com/isabelirmedeiros/Sistema-Pizzaria/issues/2#issue-3443492146" width="750px" />
+<img src="https://private-user-images.githubusercontent.com/227486176/492611282-0a13868b-797f-4cfa-9299-598c3b628c87.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTg2MDMxNjEsIm5iZiI6MTc1ODYwMjg2MSwicGF0aCI6Ii8yMjc0ODYxNzYvNDkyNjExMjgyLTBhMTM4NjhiLTc5N2YtNGNmYS05Mjk5LTU5OGMzYjYyOGM4Ny5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwOTIzJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDkyM1QwNDQ3NDFaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT01NDMwYjNmYjg1ZTNiZjA2NzJkNzFhMTU3NmQ4ZDVjMDFlZTIxMmU0YTI5MjY0MWI5OWNlMTFmMzE0NDI3ZDhiJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.Oqpv4kTJZKPk-4wJpzPMI-cLAiKTchP-Vqg6_eF0zmk" width="700px" />
 </div>
 
 <div align="center">
-<img src="https://github.com/isabelirmedeiros/Sistema-Pizzaria/issues/3#issue-3443493643" width="750px" />
+<img src="https://private-user-images.githubusercontent.com/227486176/492629220-7c2e4f7d-b0e1-4af1-9a2d-746d826d0233.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTg2MDMxMTQsIm5iZiI6MTc1ODYwMjgxNCwicGF0aCI6Ii8yMjc0ODYxNzYvNDkyNjI5MjIwLTdjMmU0ZjdkLWIwZTEtNGFmMS05YTJkLTc0NmQ4MjZkMDIzMy5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwOTIzJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDkyM1QwNDQ2NTRaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT05OWRkN2JjYmM4NTI1OTg3ZTAzN2JlYTA0YjY5NDliZTU5NmIwNjhiMTExODlhNjJlM2FhMzAxZDRiNDhjYWE2JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.tlZL1DQ1FMU-weIpqmnuofgKjXjOHs8f63h-ZWAR8qE" width="700px" />
 </div>
