@@ -69,7 +69,7 @@ Sistema-Pizzaria/
 
 3. Compile o TypeScript para JavaScript (gera os arquivos em `dist/`):
    ```bash
-   npx tsc
+   npm run build
    ```
 
 4. Executar o sistema:
@@ -142,7 +142,9 @@ Crie os script no **package.json**:
 ## Uso (menu console)
 
 1. **menuClientes** -> Mostre todos os clientes e cadastre, edite e exclua de acordo com o CPF. O sistema procura e salva em `bancoDados/cadastroClientes.json`.
+
 2. **menuProdutos** -> Mostre todos os produtos e cadastre, edite e exclua de acordo com o ID. O sistema procura e salva em `bancoDados/Produtos/pizzas.json`, `bancoDados/Produtos/bebidas.json` ou `bancoDados/Produtos/sobremesas.json` .
+
 3. **menuVendas** -> Faça um novo pedido, informando o **cpf**, **produto**, **quantidade**, **entrega**, **data** (formato IDO) e retorna o **valor total** gerando um comprovante salvo em `dist/Vendas/comprovantes.txt`; emita relatórios semanais e mensais salvo em `dist/pedidos.json`.
 
 ---
@@ -171,13 +173,13 @@ Projeto desenvolvido por **Ana Carolina Santos - RA: 2506285**, **Ekaterini Kots
 ## Mapeameno dos arquivos 
 
 <div align="center">
-<img src="https://github.com/isabelirmedeiros/Sistema-Pizzaria/issues/1#issue-3443467619" width="500px" />
+<img src="https://github.com/isabelirmedeiros/Sistema-Pizzaria/issues/1#issue-3443467619" width="750px" />
 </div>
 
 <div align="center">
-<img src="https://github.com/isabelirmedeiros/Sistema-Pizzaria/issues/2#issue-3443492146" width="500px" />
+<img src="https://github.com/isabelirmedeiros/Sistema-Pizzaria/issues/2#issue-3443492146" width="750px" />
 </div>
 
 <div align="center">
-<img src="https://github.com/isabelirmedeiros/Sistema-Pizzaria/issues/3#issue-3443493643" width="500px" />
+<img src="https://github.com/isabelirmedeiros/Sistema-Pizzaria/issues/3#issue-3443493643" width="750px" />
 </div>
