@@ -9,4 +9,5 @@ export function todosProdutos(){
     console.log("\n---BEBIDAS---");
     mostrarBebida();
     console.log("\n---SOBREMESAS---");
+    mostrarSobremesa();
 }
